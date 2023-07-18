@@ -1,0 +1,67 @@
+{
+  "1": {},
+  "2": {},
+  "3": {},
+  "4": {
+    "statelist": [
+      "JH",
+      "HP",
+      "CT",
+      "AP"
+    ]
+  },
+  "5": {
+    "statelist": [
+      "DL",
+      "JK",
+      "MN"
+    ]
+  },
+  "6": {
+    "statelist": [
+      "SK",
+      "ML",
+      "NL",
+      "MZ"
+    ]
+  },
+  "7": {
+    "statelist": [
+      "MH",
+      "KL",
+      "UP",
+      "GJ",
+      "RJ",
+      "OD"
+    ]
+  },
+  "8": {
+    "statelist": [
+      "TN",
+      "KA",
+      "BR",
+      "WB",
+      "MP",
+      "HR",
+      "MH"
+    ]
+  },
+  "9": {
+    "statelist": [
+      "UK",
+      "PB",
+      "HR"
+    ]
+  },
+  "10": {
+    "statelist": [
+      "JH",
+      "HP",
+      "CT",
+      "AP",
+      "TG",
+      "KL",
+      "GJ"
+    ]
+  }
+}
