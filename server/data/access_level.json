@@ -1,0 +1,7 @@
+{ 
+  "1": ["Visitors access"], 
+  "2": ["Visitors access","only read access"], 
+  "3": ["Visitors access","only read access", "proprietry Data View"], 
+  "4": ["Editing data right", "proprietry Data View","only read access","Visitors access"], 
+  "5": ["full admin access" ,"Editing data right", "proprietry Data View","only read access","Visitors access"] 
+}
